@@ -1,4 +1,4 @@
 # practice-from-chatgpt
 Explore GitHub via chatgpt.
 <br>
-Author - Utsab Bhattarai
+Author - Utsab Bhattarai (Data Scientist)
